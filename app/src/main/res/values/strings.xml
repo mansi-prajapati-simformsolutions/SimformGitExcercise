@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">GitExcercise</string>
+
+    <string name="txt_sign_in">Sign In</string>
+    <string name="txt_subtitle_login">Enter your Dipstore account details for a personalised experience.</string>
+    <string name="hint_password">Password (at least 8 characters)</string>
+    <string name="hint_email">Email</string>
+    <string name="txt_forgot_pwd">Forgot Password?</string>
+    <string name="txt_signin">Sign In</string>
+    <string name="txt_signin_with">Or Sign In with</string>
+    <string name="txt_signin_google">Sign in with Google</string>
+    <string name="txt_signin_apple">Sign in with Apple</string>
+    <string name="txt_dont_have_account">Don’t have an account? Sign Up</string>
+    <string name="hint_name">Username</string>
+    <string name="txt_sign_up">Let’s Get Started</string>
+    <string name="txt_subtitle_signup">Create an account to continue.</string>
+    <string name="txt_continue">Continue</string>
+    <string name="txt_have_an_account">Already have an account? Sign In</string>
+    <string name="txt_forgot_password">Forgot Password</string>
+    <string name="txt_send">Send</string>
 </resources>
